@@ -4,4 +4,5 @@ let num1=31;
 let num2=31;
 let multiply=num1*num2;
 let random=math.random();
-let mod=
+let mod;
+let max=math.max(1,2,3,20);
